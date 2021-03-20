@@ -88,7 +88,7 @@ body {
 }
 
 .text-box h1 {
-    font-size: 5rem;
+    font-size: 7rem;
     font-weight: 500;
     color: var(--white);
 
@@ -111,7 +111,7 @@ body {
     font-weight: 500;
     color: var(--dark-blue);
     background-color: var(--light-gray);
-    padding: 1.5rem 3rem;
+    padding: 1.5rem 4rem;
     margin-top: 4.5rem;
 
     box-shadow: 0 5px 10px rgba(144, 160, 182, 0.329);
@@ -178,7 +178,7 @@ body {
 }
 
 .projects-title h2 {
-    font-size: 4rem;
+    font-size: 7rem;
     letter-spacing: .2rem;
     text-align: center;
     font-weight: 600;
@@ -232,11 +232,11 @@ body {
     background-color: var(--primary-blue);
     padding: 4rem;
     width: 100%;
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 .form h2 {
-    font-size: 4rem;
+    font-size: 5rem;
     text-align: center;
     margin-top: 7rem;
     font-weight: 600;
@@ -253,7 +253,7 @@ body {
 
 .form input{
     padding: 1rem;
-    margin: 2rem 1rem;
+    margin: 1rem 1rem;
     border: none;
     padding: 1.5rem 8rem;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
@@ -265,7 +265,7 @@ body {
     border: none;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
     background-color: rgba(243, 243, 243, 0.795);
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
 
 #form-text:visited,
@@ -282,8 +282,8 @@ body {
     font-weight: bold;
     color: var(--dark-blue);
     background-color: var(--light-gray);
-    padding: 1.5rem 8rem;
-    margin-top: 6rem;
+    padding: 1.5rem 16rem;
+    margin-top: 3rem;
     border-radius: 0;
 
     box-shadow: 0 5px 10px rgba(144, 160, 182, 0.329);
@@ -310,7 +310,7 @@ body {
 
 
 .footer {
-    margin-top: 25rem;
+    margin-top: 15rem;
     padding: 10rem 3rem;
     height: auto;
   }
@@ -323,7 +323,7 @@ body {
   }
 
   .footer-logo {
-    height: 8rem;
+    height: 9rem;
     padding: 2rem;
   }
 
@@ -331,7 +331,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: bold;
   }
 

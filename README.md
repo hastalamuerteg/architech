@@ -1,13 +1,37 @@
-# architech
+# Architech 🏢
 
-Architech é uma empresa fictícia de arquitetura e interior design que criei para estudo de layout e responsividade.
+Architech is a fictional architecture company created for study purposes only.
 
-Utilizei flexbox e grid layout para manipulação e criação de um layout responsivo considerando diferentes tipos de telas.
+The project was created making use of flexbox and grid layout to practice responsive web design.
 
-O projeto foi desenvolvido com Html e Css.
+## Technologies 🧰🧰
 
-No link abaixo está o vídeo de apresentação do projeto.
+- HTML5
+- CSS3
 
-https://www.linkedin.com/feed/update/urn:li:activity:6774395238321586176/
+## Website design
 
-Obrigado
+## Header
+
+![alt](/images/header.png)
+
+## Main
+
+![alt](/images/projects.png)
+![alt](/images/projects2.png)
+
+## Interactive gallery
+
+![alt](/images/pics.png)
+
+## Form
+
+![alt](/images/form.png)
+
+## Footer
+
+![alt](/images/footer.png)
+
+###### This project may still suffer changes.
+
+###### Developed by Gabriel Vicente

@@ -1,0 +1,20 @@
+{
+  "name": "architech",
+  "version": "1.0.0",
+  "description": "Architech é uma empresa fictícia de arquitetura e interior design que criei para estudo de layout e responsividade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hastalamuerteg/architech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hastalamuerteg/architech/issues"
+  },
+  "homepage": "https://github.com/hastalamuerteg/architech#readme"
+}
